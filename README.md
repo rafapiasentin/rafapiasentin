@@ -40,7 +40,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rafapiasentin/rafapiasentin/output/snake.svg" alt="Snake animation" />
-
-###
